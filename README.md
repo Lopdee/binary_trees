@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C - Binary trees This was a partner project in which we learned about the details, advantages, and disadvantages of using trees as data structures. We learned about how to qualify trees as well as how to traverse them. Throughout the project, we implemented binary, binary search, AVL, and Max Binary Heap trees.
 
 Tests ✔️ Tester: Folder of test files for all tasks. Provided by ALX. Helper File 🙌 Header File 📁 binary_trees.h: Header file containing definitions and prototypes for all types and functions written for the project. Data Structures
@@ -80,3 +81,6 @@ File Prototype binary_tree_print.c void binary_tree_print(const binary_tree_t *t
 
 135-O: Text file containing the average time complexities of binary heap opeartions (one answer per line): Inserting the value n. Extracting the root node. Searching for a node in a binary heap of size n.
 
+=======
+printf group project
+>>>>>>> 34470bacfacf2c509a1d9369f51c6e653d615e91
